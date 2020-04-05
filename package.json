@@ -1,5 +1,5 @@
 {
-  "name": "build-webpack",
+  "name": "webpack-builder-configuration",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
